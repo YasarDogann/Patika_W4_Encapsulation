@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\bin\Debug\net8.0\patika_w4_encapsulation.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\bin\Debug\net8.0\patika_w4_encapsulation.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\bin\Debug\net8.0\patika_w4_encapsulation.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\bin\Debug\net8.0\patika_w4_encapsulation.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\bin\Debug\net8.0\patika_w4_encapsulation.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\refint\patika_w4_encapsulation.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\patika_w4_encapsulation.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_encapsulation\patika_w4_encapsulation\obj\Debug\net8.0\ref\patika_w4_encapsulation.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CE425F-7E3E-4392-915D-96F07A39EE35}|patika_w4_encapsulation\\patika_w4_encapsulation.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_encapsulation\\patika_w4_encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CE425F-7E3E-4392-915D-96F07A39EE35}|patika_w4_encapsulation\\patika_w4_encapsulation.csproj|solutionrelative:patika_w4_encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CE425F-7E3E-4392-915D-96F07A39EE35}|patika_w4_encapsulation\\patika_w4_encapsulation.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_encapsulation\\patika_w4_encapsulation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CE425F-7E3E-4392-915D-96F07A39EE35}|patika_w4_encapsulation\\patika_w4_encapsulation.csproj|solutionrelative:patika_w4_encapsulation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_encapsulation\\patika_w4_encapsulation\\Car.cs",
+              "RelativeDocumentMoniker": "patika_w4_encapsulation\\Car.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_encapsulation\\patika_w4_encapsulation\\Car.cs",
+              "RelativeToolTip": "patika_w4_encapsulation\\Car.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:55:51.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_encapsulation\\patika_w4_encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w4_encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_encapsulation\\patika_w4_encapsulation\\Program.cs",
+              "RelativeToolTip": "patika_w4_encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:55:05.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
